@@ -1,22 +1,5 @@
 # Crop Yield Prediction ML Project
 
-## Installation Instructions
-
-1. Create and activate virtual environment:
-```bash
-python3 -m venv ml_env
-source ml_env/bin/activate
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the main script:
-```bash
-python crop_yield_prediction_final.py
-```
 
 ## Project Overview
 
